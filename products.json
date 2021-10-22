@@ -1,0 +1,1492 @@
+[
+  {
+
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623343040178jpg?alt=media&token=d586ced1-0bbf-44a9-a88c-4b9ed3bda7de",
+    "title": "Cheerios Honey Nut Cheerios",
+    "details": "",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "price": 3.99,
+    "section": ""
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623325841595jpg?alt=media&token=0bc41d56-1aea-4dde-a480-e6d7d69bcfe7",
+    "price": 1.29,
+    "salePrice": null,
+    "section": "",
+    "title": "Dasani Purified Water",
+    "details": "",
+    "categories": ["60c4ccf8423ad48318945941"]
+  },
+  {
+
+    "title": "Lunchables Ham & Chedder",
+    "price": 2.99,
+    "categories": ["60c4cccc423ad4831894593c"],
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623352655246webp?alt=media&token=8f9c2961-8cae-44ca-bec7-ccd06b9c5b15",
+    "section": "",
+    "salePrice": null
+  },
+  {
+
+    "details": "",
+    "title": "Fritos Twists Honey Bbq Corn Snacks",
+    "price": 0.99,
+    "categories": ["60c4ccdf423ad4831894593e"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623331813435png?alt=media&token=18b91294-39e3-4f61-bd9f-7705dc7bcba1",
+    "salePrice": null,
+    "section": ""
+  },
+  {
+
+    "price": 1.99,
+    "salePrice": null,
+    "categories": ["60c4cd01423ad48318945942"],
+    "details": "",
+    "title": "Haribo Goldbears Gummi Candy",
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623329487907webp?alt=media&token=8211ba9c-fc6a-466e-bccb-bfb099c5900d"
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623334755002jpg?alt=media&token=0a081a73-ea3b-444d-96b3-f12b17df34b0",
+    "categories": ["60c4cd38423ad48318945946"],
+    "price": 3.99,
+    "title": "Cutex Nail Polish Remover Strength-Shield",
+    "section": "",
+    "details": "",
+    "salePrice":null
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623339797555jpg?alt=media&token=29a79a94-d7e2-4ccd-b4bf-71b7877e32a3",
+    "price": 3.99,
+    "section": "",
+    "details": "",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "salePrice": null,
+    "title": "Nestle Toll House Nestle Chocolate Chip Cooking Dough"
+  },
+  {
+
+    "categories": ["60c4ccf8423ad48318945941"],
+    "title": "Pedialyte Electrolyte Solution",
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623332062795jpg?alt=media&token=17ddafc7-efeb-48c4-8db9-ad1ee3f31f0c",
+    "price": 7.99,
+    "section": "",
+    "salePrice":null
+  },
+  {
+
+    "title": "Brisk Lemon Iced Tea",
+    "details": "",
+    "categories": ["60c4ccf8423ad48318945941"],
+    "salePrice": null,
+    "price": 2.99,
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623342333075png?alt=media&token=54c1231a-ed2c-496d-be5a-c6148465044e"
+  },
+  {
+
+    "price": 6.99,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623364781471jpg?alt=media&token=90d93ad9-5fec-463c-b61f-f8f77c026b4e",
+    "details": "",
+    "categories": ["60c4ccd7423ad4831894593d"],
+    "section": "",
+    "title": "Cortizone 10 Maximum Strength Aloe Anti-Itch Creme",
+    "salePrice":null
+  },
+  {
+
+    "section": "",
+    "details": "",
+    "categories": ["60c4ccdf423ad4831894593e"],
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623331950642jpg?alt=media&token=a47f44be-6f07-40d4-b551-d4ad8aaf9cb3",
+    "title": "Doritos Spicy Sweet Chili Tortilla Chips",
+    "price": 0.9
+  },
+  {
+
+    "categories": ["60c4cd38423ad48318945946"],
+    "title": "Edge Shave Gel, Sensitive Skin, with Aloe",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623338101565jpg?alt=media&token=d67abcf8-a907-4038-a0c0-0bc5a6e33873",
+    "price": 3.99,
+    "salePrice": null,
+    "details": "",
+    "section": ""
+  },
+  {
+
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623329730835webp?alt=media&token=7be609b3-e1bd-4463-94c3-8a52e02fdd95",
+    "title": "Swedish Fish Candy, Soft & Chewy",
+    "details": "",
+    "categories": ["60c4cd01423ad48318945942"],
+    "price": 1.49,
+    "salePrice": null
+  },
+  {
+
+    "salePrice": null,
+    "price": 4.99,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623369516879webp?alt=media&token=dc150ed7-6f69-4f23-86b9-3092b63c7f00",
+    "title": "Trojan Ultra Thin Premium Lubricated Condoms",
+    "details": "",
+    "section": "",
+    "categories": ["60c4ccd7423ad4831894593d"]
+  },
+  {
+
+    "categories": ["60c4ccf8423ad48318945941"],
+    "price": 4.29,
+    "section": "",
+    "title": "Bigelow Earl Grey Black Tea Blend",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623330689839jpg?alt=media&token=58bad0a4-7c10-45a6-9057-4b599d2c0961",
+    "details": "",
+    "salePrice":null
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623329781841webp?alt=media&token=4ae6a102-8f1a-425a-880f-a676f2833bbe",
+    "details": "",
+    "price": 1.99,
+    "title": "Gatorade Fierce Orange Thirst Quencher",
+    "categories": ["60c4ccf8423ad48318945941"],
+    "section": "",
+    "salePrice":null
+  },
+  {
+
+    "salePrice": null,
+    "price": 3.49,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623331246166jpg?alt=media&token=9acf098a-25da-431c-bc42-2c8b5eb43b0d",
+    "section": "",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "details": "",
+    "title": "Barilla Traditonal and Tomato & Basil Sauce"
+  },
+  {
+
+    "categories": ["60c4cccc423ad4831894593c"],
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623354735357jpg?alt=media&token=313041d2-fa65-47fd-b480-711eeb1321a5",
+    "price": 3.49,
+    "title": "Complete Salad Kit Sante Fe Style",
+    "section": "",
+    "details": ""
+  },
+  {
+
+    "price": 2.39,
+    "section": "",
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623337145210jpg?alt=media&token=5927af15-dae6-429d-ac9d-2d65e9dd432b",
+    "categories": ["60c4ccf8423ad48318945941"],
+    "title": "Coca-Cola Coke",
+    "salePrice":null
+  },
+  {
+
+    "salePrice": null,
+    "details": "",
+    "price": 4.99,
+    "title": "Göt2b Ultra Glued Invincible Styling Gel",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623337371864jpg?alt=media&token=f7c97ec9-eef8-4b7c-beb4-0c902deddd3b",
+    "categories": ["60c4cd38423ad48318945946"],
+    "section": ""
+  },
+  {
+
+    "title": "Tylenol Extra Strength Caplets, 500 Mg",
+    "price": 2.99,
+    "details": "",
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623367248251webp?alt=media&token=88d3fab5-30c8-4262-9d9d-b74587ecc8c7",
+    "section": "",
+    "categories": ["60c4ccd7423ad4831894593d"]
+  },
+  {
+
+    "title": "Bang Potent Brain And Body Fuel Blue Razz",
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623338011336jpg?alt=media&token=082f36af-e2ae-45f0-9723-9f0c63b72725",
+    "categories": ["60c4ccf8423ad48318945941"],
+    "salePrice": null,
+    "price": 1.99,
+    "details": ""
+  },
+  {
+
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623332374059jpg?alt=media&token=32168556-71df-46f0-943d-56444d0ab094",
+    "title": "Red Vines Original Red Licorice Twists",
+    "price": 1.99,
+    "categories": ["60c4cd01423ad48318945942"],
+    "details": "",
+    "salePrice":null
+  },
+  {
+
+    "categories": ["60c4ccf8423ad48318945941"],
+    "salePrice": null,
+    "section": "",
+    "price": 2.99,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623337799727Red%20Bull%20Energy?alt=media&token=c8d27ad9-d8f8-46d8-969c-cc03ed79d608",
+    "details": "",
+    "title": "Red Bull Energy"
+  },
+  {
+
+    "price": 3.99,
+    "title": "Skintimate Coconut Delight Moisturizing Women's Shave Gel",
+    "details": "",
+    "salePrice": null,
+    "categories": ["60c4cd38423ad48318945946"],
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623370426791jpg?alt=media&token=fa96a196-c435-47ee-87e6-16d92f5fe54c"
+  },
+  {
+
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623331024907jpeg?alt=media&token=ecb931d7-09b9-4404-ace5-b6d59730ded2",
+    "title": "Oreo Chocolate Sandwich Cookies",
+    "section": "",
+    "salePrice": null,
+    "price": 4.99,
+    "categories": ["60c4cce7423ad4831894593f"]
+  },
+  {
+
+    "title": "Gillette Pivot Plus Razor",
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623369784640jpg?alt=media&token=702614c6-bbf1-42f9-bec3-57024c3ff637",
+    "price": 1.49,
+    "salePrice": null,
+    "categories": ["60c4cd38423ad48318945946"],
+    "section": ""
+  },
+  {
+
+    "categories": ["60c4cd57423ad4831894594a"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623363277778webp?alt=media&token=529e18d8-5823-4b74-a9ae-6471379c8f12",
+    "details": "",
+    "title": "Scotch-Brite® Heavy Duty Scrub Sponge",
+    "salePrice": null,
+    "section": "",
+    "price": 2.9
+  },
+  {
+
+    "price": 1.29,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623328295056webp?alt=media&token=10f6b716-5142-402c-a5be-7f81970abbf9",
+    "title": "AriZona Mucho Mango",
+    "section": "",
+    "categories": ["60c4ccf8423ad48318945941"],
+    "details": "",
+    "salePrice":null
+  },
+  {
+
+    "title": "Listerine Cool Mint Antiseptic Mouthwash",
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623369210112webp?alt=media&token=ec47c524-01dd-4832-9d7d-3ac878f2965c",
+    "salePrice": null,
+    "categories": ["60c4ccd7423ad4831894593d"],
+    "price": 5.29,
+    "details": ""
+  },
+  {
+
+    "price": 1.49,
+    "section": "",
+    "salePrice": null,
+    "categories": ["60c4cccc423ad4831894593c"],
+    "title": "Chobani\tGreek Yogurt Non-Fat",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623333815396webp?alt=media&token=f1d9436d-8408-4470-b04c-94afd78c7bc0",
+    "details": "Blueberry"
+  },
+  {
+
+    "salePrice": null,
+    "categories": ["60c4cccc423ad4831894593c"],
+    "section": "",
+    "title": "Kirkland\tHoney",
+    "price": 5.49,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623341162056webp?alt=media&token=acf08ff1-4963-4666-940f-f7ebc13bb9b3",
+    "details": ""
+  },
+  {
+
+    "price": 1.99,
+    "categories": ["60c4cd01423ad48318945942"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623330196621webp?alt=media&token=0ab2b15a-0400-493b-a939-93aba72c04d1",
+    "title": "AirHeads  Xtreme Rainbow",
+    "section": "",
+    "details": "",
+    "salePrice":null
+  },
+  {
+
+    "salePrice": null,
+    "section": "",
+    "categories": ["60c4cce7423ad4831894593f"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623331506583jpg?alt=media&token=8c1f0f2a-baa8-444a-b365-de88c8628feb",
+    "price": 4.99,
+    "title": "Chips Ahoy! Original Chocolate Chip Cookies",
+    "details": ""
+  },
+  {
+
+    "section": "",
+    "salePrice": null,
+    "title": "Morton Iodized Salt & Pepper",
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623336693511jpg?alt=media&token=5fee4352-4d7e-4d5b-842e-ddd4cea33e73",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "price": 3.9
+  },
+  {
+
+    "details": "",
+    "salePrice": null,
+    "title": "Mucinex Max Strength Extended Release Bi-Layer Expectorant Tablets",
+    "categories": ["60c4ccd7423ad4831894593d"],
+    "price": 0.99,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623364573449jpg?alt=media&token=200c88f9-2b97-45bb-848c-8b1a06ca2ec7",
+    "section": ""
+  },
+  {
+
+    "price": 2.99,
+    "salePrice": null,
+    "section": "",
+    "title": "Dial Antibacterial Liquid Hand Soap, Spring Water, 11 Ounce ",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623333552306jpg?alt=media&token=56e404c3-50ac-4ac0-b647-c6a75915bc83",
+    "details": "",
+    "categories": ["60c4cd38423ad48318945946"]
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623365860357jpg?alt=media&token=3d1d1479-32e9-47e5-8290-ca6017d677a7",
+    "salePrice": null,
+    "section": "",
+    "price": 10.99,
+    "categories": ["60c4ccd7423ad4831894593d"],
+    "details": "",
+    "title": "Mini First Aid Kit"
+  },
+  {
+
+    "details": "",
+    "price": 3.99,
+    "categories": ["60c4cd38423ad48318945946"],
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623334531092jpg?alt=media&token=a0c9035b-0378-48fe-a780-5d8a17a00a5a",
+    "title": "Q-Tips Cotton Swabs Original",
+    "section": ""
+  },
+  {
+
+    "categories": ["60c4cccc423ad4831894593c"],
+    "title": "Clasico Four Cheease Alfredo Pasta Sauce",
+    "salePrice": null,
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623337960842jpg?alt=media&token=b53317c3-8ddf-46b5-bd3c-6249db5d6c3b",
+    "details": "",
+    "price": 5.29
+  },
+  {
+
+    "categories": ["60c4ccdf423ad4831894593e"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623354930420webp?alt=media&token=416644c9-7f4d-4496-89ef-ee67f5a83651",
+    "title": "Cheetos Flamin' Hot Cheese Flavored Snacks",
+    "salePrice": null,
+    "section": "",
+    "price": 0.99,
+    "details": ""
+  },
+  {
+
+    "salePrice": null,
+    "title": "Belvita Cinnamon Brown Sugar Breakfast Biscuits",
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623336400714jpg?alt=media&token=9bdabd06-3ab4-4d4b-a9ab-66b7027df198",
+    "categories": ["60c4cce7423ad4831894593f"],
+    "details": "",
+    "price": 2.49
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623365594277jpg?alt=media&token=aed67bd9-afdd-4d42-894c-44c5633db1d6",
+    "salePrice": null,
+    "categories": ["60c4ccd7423ad4831894593d"],
+    "details": "",
+    "title": "Clear Eyes Redness Relief Eye Drops Soothes & Moisturizes ",
+    "section": "",
+    "price": 3.9
+  },
+  {
+
+    "salePrice": null,
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623336947839Extra%20Peppermint%20Sugarfree%20Gum?alt=media&token=b5523346-5f61-49b2-9766-9ccc2be6201f",
+    "title": "Extra Peppermint Sugarfree Gum",
+    "section": "",
+    "price": 1.29,
+    "categories": ["60c4cce7423ad4831894593f"]
+  },
+  {
+
+    "title": "BiC Flex5 Razors",
+    "categories": ["60c4cd38423ad48318945946"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623370207510jpg?alt=media&token=fc186a2b-9293-4166-9910-8e37f38d53bd",
+    "section": "",
+    "details": "",
+    "price": 8.99,
+    "salePrice":null
+  },
+  {
+
+    "salePrice": null,
+    "price": 2.99,
+    "title": "Halls Cough Suppressant Drops, Mentho-Lyptus",
+    "categories": ["60c4ccd7423ad4831894593d"],
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623364067074jpg?alt=media&token=b46ed3eb-ace3-4967-9943-0fe6316d0cb5",
+    "section": ""
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623332560481jpg?alt=media&token=9e8db035-f590-4587-8e53-eecadc70c7d5",
+    "section": "",
+    "title": "Smucker's Strawberry Jam",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "salePrice": null,
+    "price": 4.29,
+    "details": ""
+  },
+  {
+
+    "categories": ["60c4cd38423ad48318945946"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623333369996jpg?alt=media&token=e09bd00a-a0b9-4034-ba61-56a7501b2b54",
+    "price": 2.99,
+    "section": "",
+    "title": "Softsoap Hand Soap, Fresh Breeze",
+    "details": "",
+    "salePrice":null
+  },
+  {
+
+    "title": "Bang Peach Mango Energy Drink",
+    "salePrice": null,
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623338094719Bang%20Peach%20Mango%20Energy%20Drink?alt=media&token=461c6a41-5e93-495b-99bb-cc0a0bd08365",
+    "price": 1.99,
+    "categories": ["60c4ccf8423ad48318945941"],
+    "section": ""
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623327408356jpg?alt=media&token=0526edea-1c9b-4d65-8211-1998945f95a1",
+    "salePrice": null,
+    "title": "AriZona Green Tea, with Ginseng and Honey",
+    "categories": ["60c4ccf8423ad48318945941"],
+    "price": 1.29,
+    "details": "",
+    "section": ""
+  },
+  {
+
+    "section": "",
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623336517516webp?alt=media&token=2d71b345-c053-4bb9-8fcb-3d0528652a92",
+    "salePrice": null,
+    "price": 3.99,
+    "title": "Artesano Classic White Bread",
+    "categories": ["60c4cccc423ad4831894593c"]
+  },
+  {
+
+    "details": "",
+    "title": "Bic\tBic Classic Lighter",
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623359178122jpg?alt=media&token=9852b391-05e5-463e-addc-7e3dad6dc90c",
+    "categories": ["60c4cd57423ad4831894594a"],
+    "price": 1.99,
+    "section": ""
+  },
+  {
+
+    "title": "Ocean Spray Cranberry Juice Cocktail Original",
+    "details": "",
+    "salePrice": null,
+    "categories": ["60c4ccf8423ad48318945941"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623328958502jpg?alt=media&token=b3c45fa0-50a1-496d-ba2e-5d52522f73d5",
+    "section": "",
+    "price": 2.4
+  },
+  {
+
+    "title": "Ruffles Chedder Sour Cream",
+    "salePrice": null,
+    "details": "",
+    "categories": ["60c4ccdf423ad4831894593e"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623356994128jpg?alt=media&token=33c0e6f9-b96b-4d1b-8545-92ddad43d02e",
+    "section": "",
+    "price": 0.9
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623327825091jpg?alt=media&token=2eec7003-389d-4a9f-afd8-d6ef22b711d7",
+    "categories": ["60c4ccf8423ad48318945941"],
+    "price": 1.29,
+    "title": "AriZona Arnold Palmer Lite Half & Half Iced Tea Lemonade",
+    "salePrice": null,
+    "details": "",
+    "section": ""
+  },
+  {
+
+    "salePrice": null,
+    "price": 1.29,
+    "categories": ["60c4ccf8423ad48318945941"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623326131628jpg?alt=media&token=43dab29f-82b0-4a44-abe6-e8803793f2c3",
+    "section": "",
+    "details": "",
+    "title": "Arrowhead Mountain Spring Water"
+  },
+  {
+
+    "title": "Lunchables Turkey & American",
+    "price": 2.99,
+    "categories": ["60c4cccc423ad4831894593c"],
+    "section": "",
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623352895138jpeg?alt=media&token=a4957a9e-43b3-46a9-b817-e955ba6ef064",
+    "details": ""
+  },
+  {
+
+    "price": 5.99,
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623366728068jpg?alt=media&token=041ca6ba-c6d7-4612-a1ce-b69488cdc5d9",
+    "salePrice": null,
+    "title": "Neosporin Original Antibiotic Ointment ",
+    "details": "",
+    "categories": ["60c4ccd7423ad4831894593d"]
+  },
+  {
+
+    "price": 4.49,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623338891990jpg?alt=media&token=f254194a-5d62-41cd-98b6-f6d3be71c336",
+    "details": "",
+    "title": "Ball Park Tailgaters Sesame Hamburger Buns",
+    "section": "",
+    "salePrice": null,
+    "categories": ["60c4cccc423ad4831894593c"]
+  },
+  {
+
+    "salePrice": null,
+    "title": "Digiorno\t Pepporoni Frozen Pizza with Rising Crust",
+    "section": "",
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623353405957jpg?alt=media&token=74fded76-d00a-42cc-898b-141b15412f4f",
+    "price": 7.99,
+    "categories": ["60c4cce7423ad4831894593f"]
+  },
+  {
+
+    "categories": ["60c4cccc423ad4831894593c"],
+    "details": "",
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623336892163jpg?alt=media&token=2807ddec-7f0d-4640-93e8-11b9f7f98e3d",
+    "price": 2.99,
+    "title": "Heinz Ketchup",
+    "section": ""
+  },
+  {
+
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623342763085jpg?alt=media&token=0d25fde6-8241-456a-ac6c-8199525551ed",
+    "title": "Huy Fong Foods Chili Sauce Hot Sirracha",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "salePrice": null,
+    "section": "",
+    "price": 4.4
+  },
+  {
+
+    "title": "Tide Tide Hygienic Clean Heavy 10x Duty Power PODS Original Laundry Detergent Liquid Pacs",
+    "categories": ["60c4cd57423ad4831894594a"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623360013468jpg?alt=media&token=d11d6e24-1605-40a2-9b23-90e67a9af633",
+    "section": "",
+    "details": "",
+    "price": 11.99,
+    "salePrice": null
+  },
+  {
+
+    "title": "Essentia Ionized Alkaline Water",
+    "price": 2.99,
+    "details": "",
+    "categories": ["60c4cce7423ad4831894593f"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623326413076jpg?alt=media&token=23cba3b2-4573-4788-9423-016b02303902",
+    "section": "",
+    "salePrice": null
+  },
+  {
+
+    "section": "",
+    "salePrice": null,
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623332759689jpg?alt=media&token=933a8848-1f02-49d5-ae28-ba82bde15ffe",
+    "categories": ["60c4ccd7423ad4831894593d"],
+    "price": 8.99,
+    "title": "Vicks VapoRub Ointment"
+  },
+  {
+
+    "salePrice": null,
+    "details": "",
+    "price": 1.99,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623331138587jpg?alt=media&token=85e24fec-0eeb-408c-bd5b-e1977ce3f326",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "section": "",
+    "title": "Barilla Penne Pasta Noodles"
+  },
+  {
+
+    "price": 2.39,
+    "title": "Dr. Pepper",
+    "details": "",
+    "section": "",
+    "categories": ["60c4ccf8423ad48318945941"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623337420159%20Pepper?alt=media&token=5cb41c3b-7680-4162-a7e7-c2848f42e253",
+    "salePrice":null
+  },
+  {
+
+    "salePrice": null,
+    "title": "Lemon",
+    "price": 0.99,
+    "categories": ["60c4cccc423ad4831894593c"],
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623337000951webp?alt=media&token=34ba0982-acab-48ee-899b-cf21e3c9d23a",
+    "details": ""
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623337335791Sprite%20Lemon%20Lime?alt=media&token=65854b8b-c808-4680-9227-70627ffd2df4",
+    "section": "",
+    "details": "",
+    "price": 2.39,
+    "salePrice": null,
+    "title": "Sprite Lemon Lime",
+    "categories": ["60c4ccf8423ad48318945941"]
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623337093278jpg?alt=media&token=e262dc6e-17a6-49bc-a4d1-d43313e0b023",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "price": 3.49,
+    "title": "Heinz Yellow Mustard",
+    "salePrice": null,
+    "section": "",
+    "details": ""
+  },
+  {
+
+    "price": 1.99,
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623341604926jpg?alt=media&token=9e3a21be-73dd-447c-82cb-c19c6d6fda98",
+    "title": "Starkist Chunk Light Tuna in Water",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "salePrice": null,
+    "section": ""
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623330860691jpg?alt=media&token=34f2e250-6059-41ec-9d28-e64e5632d243",
+    "section": "",
+    "salePrice": null,
+    "details": "",
+    "price": 1.99,
+    "title": "M&M's Peanut Chocolate Candy ",
+    "categories": ["60c4cd01423ad48318945942"]
+  },
+  {
+
+    "salePrice": null,
+    "details": "",
+    "categories": ["60c4cce7423ad4831894593f"],
+    "title": "Don Miguel Burritos Shredded Beef & Cheese",
+    "price": 2.29,
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623353922805png?alt=media&token=ceda05b3-6d54-47ce-b370-b907f8caaa51"
+  },
+  {
+
+    "title": "M&M's Milk Chocolate Candy ",
+    "section": "",
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623329600436webp?alt=media&token=fb53bd35-74b5-435e-aabb-ea2c85ebc12c",
+    "details": "",
+    "price": 1.49,
+    "categories": ["60c4cd01423ad48318945942"]
+  },
+  {
+
+    "salePrice": null,
+    "price": 3.99,
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623342535965webp?alt=media&token=3d8f2bb1-f0ff-45c1-9bad-d5bcc4369472",
+    "section": "",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "title": "Nutella\tHazelnut with Cocoa"
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623332925645jpg?alt=media&token=c4ec2a74-794a-4077-8a48-b107ff3765df",
+    "price": 10.99,
+    "section": "",
+    "categories": ["60c4cd57423ad4831894594a"],
+    "details": "",
+    "salePrice": null,
+    "title": "Candle"
+  },
+  {
+
+    "price": 2.99,
+    "details": "",
+    "title": "Exposed Aloe Vera Juice Drink, Aloe Vera + Honey",
+    "categories": ["60c4ccf8423ad48318945941"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623331745144jpg?alt=media&token=ee7eadd8-b9c9-41f8-8dde-5fa450ab7e93",
+    "salePrice": null,
+    "section": ""
+  },
+  {
+
+    "details": "",
+    "title": "Chobani\tNon-Fat Greek Yogurt",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623333127799jpg?alt=media&token=a8a1773b-4b54-4473-8298-d43d428885b0",
+    "salePrice": null,
+    "price": 1.4
+  },
+  {
+
+    "details": "",
+    "section": "",
+    "categories": ["60c4cd57423ad4831894594a"],
+    "title": "Fabuloso Multi-Purpose Cleaner Lavender",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623361115722png?alt=media&token=20c60c6c-e373-4d9a-897a-12a3643dd260",
+    "price": 4.99,
+    "salePrice":null
+  },
+  {
+
+    "price": 4.99,
+    "salePrice": null,
+    "details": "",
+    "section": "",
+    "title": "Kirkland\tPremium Bacon",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623335448414jpg?alt=media&token=60c24331-5c89-4950-8e1f-9d3cfd15d838",
+    "categories": ["60c4cccc423ad4831894593c"]
+  },
+  {
+
+    "title": "Gatorade Cool Blue Flavored Thirst Quencher",
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623329301896webp?alt=media&token=a458f3ec-95ed-4889-84c4-dd98bfca1597",
+    "price": 1.99,
+    "categories": ["60c4ccf8423ad48318945941"],
+    "details": "",
+    "salePrice":null
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623337646619webp?alt=media&token=554ec568-956a-441b-bd50-ae22160661c3",
+    "price": 4.49,
+    "details": "",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "section": "",
+    "salePrice": null,
+    "title": "Sara Lee\tPlain Toaster Bagel"
+  },
+  {
+
+    "title": "Chobani Greek Yogurt",
+    "salePrice": null,
+    "price": 1.49,
+    "categories": ["60c4cccc423ad4831894593c"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623294216602png?alt=media&token=e599cdf9-5e4c-442b-8d3b-7003f4c9cfbc",
+    "details": "Strawberry",
+    "section": ""
+  },
+  {
+
+    "salePrice": null,
+    "categories": ["60c4ccd7423ad4831894593d"],
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623368610506jpg?alt=media&token=08e76d8a-9836-4828-b570-531b1e8b4f46",
+    "details": "",
+    "title": "Colgate Cavity Protection Toothpaste with Fluoride - 6 Ounce",
+    "price": 2.9
+  },
+  {
+
+    "categories": ["60c4cd38423ad48318945946"],
+    "title": "TRESemmé Shampoo With Pump Rich Moisture",
+    "price": 7.99,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623332345522jpg?alt=media&token=a7ecb159-540d-45dc-9213-5c44a2bf7b2f",
+    "details": "",
+    "section": "",
+    "salePrice":null
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623335643108jpg?alt=media&token=0eacd2f5-c256-476f-87e7-a861f88d9c0a",
+    "section": "",
+    "title": "Old Spice Anti-Perspirant Deodorant for Men, 48 Hour Protection",
+    "price": 5.99,
+    "categories": ["60c4cd38423ad48318945946"],
+    "salePrice": null,
+    "details": ""
+  },
+  {
+
+    "details": "",
+    "salePrice": null,
+    "title": "Sour Patch Kids",
+    "categories": ["60c4cd01423ad48318945942"],
+    "price": 1.49,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623333013238jpg?alt=media&token=312125b5-6412-4e47-8d49-60cefe8e5ce5",
+    "section": ""
+  },
+  {
+
+    "section": "",
+    "salePrice": null,
+    "title": "Childrens Tylenol Pain + Fever Relief Liquid - Acetaminophen",
+    "categories": ["60c4ccd7423ad4831894593d"],
+    "details": "",
+    "price": 8.99,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623364961559jpg?alt=media&token=87c694fc-e2ea-4830-89e1-3554b50dc95e"
+  },
+  {
+
+    "details": "",
+    "section": "",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "salePrice": null,
+    "title": "General Mills\tLucky Charms",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623335251818jpg?alt=media&token=0fcebe92-ce36-4523-98c5-3775f920a74c",
+    "price": 3.9
+  },
+  {
+
+    "title": "General Mills\tReese's Puffs",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623335370040jpg?alt=media&token=5b67a0a0-2f03-4ca7-9970-70b5073b5c2a",
+    "price": 3.99,
+    "salePrice": null,
+    "details": ""
+  },
+  {
+
+    "categories": ["60c4cce7423ad4831894593f"],
+    "price": 4.29,
+    "salePrice": null,
+    "title": "Tostitos Medium Chunky Salsa",
+    "section": "",
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623333081892jpg?alt=media&token=9b5f1c8f-ef95-4627-834a-195c25de0ed3"
+  },
+  {
+
+    "categories": ["60c4cce7423ad4831894593f"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623335234187Orville%20Redenbacher's%20Movie%20Theater%20Popcorn?alt=media&token=a72d9e41-54de-4ab7-a0b1-60cd7a73e76f",
+    "price": 1.59,
+    "salePrice": null,
+    "section": "",
+    "details": "",
+    "title": "Orville Redenbacher's Movie Theater Popcorn"
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623339543868png?alt=media&token=223ef98f-2671-4e19-8aed-e0497f46291e",
+    "salePrice": null,
+    "title": "Land O'Lakes Whipped Heavy Cream",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "price": 4.19,
+    "section": "",
+    "details": ""
+  },
+  {
+
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623333059194webp?alt=media&token=d03f2fa9-4447-42a9-ab03-4b1998de1a30",
+    "title": "Nivea Coconut & Monoi Oil Infused Lotion",
+    "price": 1.47,
+    "categories": ["60c4cd38423ad48318945946"],
+    "salePrice": null,
+    "details": ""
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623333198377png?alt=media&token=9d8d00a1-97bc-4ffa-a6fd-1840dcac9e1a",
+    "salePrice": null,
+    "categories": ["60c4cccc423ad4831894593c"],
+    "details": "Spicy Pot-Au-Feu",
+    "title": "Nongshim Noodle Soup Shin Black",
+    "section": "",
+    "price": 1.2
+  },
+  {
+
+    "title": "Ketchup",
+    "section": "",
+    "price": 2.99,
+    "categories": ["60c4cccc423ad4831894593c"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623276872339JPG?alt=media&token=d9e60310-2b43-474b-ae43-b6e76eec32e2",
+    "salePrice": null,
+    "details": ""
+  },
+  {
+
+    "categories": ["60c4ccdf423ad4831894593e"],
+    "section": "",
+    "details": "",
+    "salePrice": null,
+    "price": 1.29,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623333256910jpg?alt=media&token=1da27f33-cba1-439c-94ad-ffb2c3fbd9f2",
+    "title": "Tostitos Crispy Rounds Tortilla Chips"
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623291094341png?alt=media&token=02e5dd5a-d888-4be6-88d2-73b9185d7d2e",
+    "details": "",
+    "price": 0.99,
+    "title": "Lime",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "salePrice": null,
+    "section": ""
+  },
+  {
+
+    "price": 5.29,
+    "categories": ["60c4cd57423ad4831894594a"],
+    "title": "Ziploc Sandwich Bags",
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623333510916JPG?alt=media&token=d3412031-dead-479c-95fd-af9742d94336",
+    "section": "",
+    "details": ""
+  },
+  {
+
+    "salePrice": null,
+    "section": "",
+    "price": 5.29,
+    "categories": ["60c4ccd7423ad4831894593d"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623366276356jpg?alt=media&token=2b6012fe-89b0-460b-a492-52ce5b5213e9",
+    "title": "Band-Aid 1\"W x 3\"L Fabric Adhesive Bandages",
+    "details": ""
+  },
+  {
+
+    "categories": ["60c4cd57423ad4831894594a"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623333558169jpg?alt=media&token=e587af38-70dd-4e16-a08c-37fe955b7a6d",
+    "section": "",
+    "salePrice": null,
+    "details": "",
+    "price": 2.29,
+    "title": "Kitchen Gloves"
+  },
+  {
+
+    "title": "Best Foods Real Mayonnaise Squeeze ",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623337237570webp?alt=media&token=66707198-172f-4df6-b1f3-520e16ef8b79",
+    "salePrice": null,
+    "price": 3.99,
+    "section": "",
+    "details": "",
+    "categories": ["60c4cccc423ad4831894593c"]
+  },
+  {
+
+    "section": "",
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623331538331webp?alt=media&token=e677e4de-822a-4181-b777-af88997688e3",
+    "price": 4.99,
+    "salePrice": null,
+    "categories": ["60c4ccf8423ad48318945941"],
+    "title": "Harmless Harvest Coconut Water, Organic"
+  },
+  {
+
+    "title": "Campbell's Chicken Noodle Soup",
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623336202636jpg?alt=media&token=e7788357-5adf-46c4-82c6-35283fa95384",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "price": 2.99,
+    "details": "",
+    "salePrice":null
+  },
+  {
+
+    "salePrice": null,
+    "categories": ["60c4cccc423ad4831894593c"],
+    "details": "Strawberry",
+    "title": "Chobani\tGreek Yogurt Non-Fat",
+    "price": 1.49,
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623333751911webp?alt=media&token=f8bbb3d3-0a1f-4ef8-91c7-acc0ac5284d7"
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623353562907webp?alt=media&token=1a2856c2-3409-4c1b-86ce-61fccd89494f",
+    "section": "",
+    "price": 7.99,
+    "salePrice": null,
+    "title": "Digiorno\t Four Cheese Frozen Pizza with Rising Crust",
+    "categories": ["60c4cce7423ad4831894593f"],
+    "details": ""
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623335000299jpg?alt=media&token=be6a4ff0-79b0-4177-b335-5048cccc80d9",
+    "section": "",
+    "title": "Degree Antiperspirant Deodorant Cool Rush",
+    "price": 4.29,
+    "salePrice": null,
+    "categories": ["60c4cd38423ad48318945946"],
+    "details": ""
+  },
+  {
+
+    "price": 4.49,
+    "salePrice": null,
+    "details": "",
+    "section": "",
+    "title": "Sara Lee\tBlueberry Toaster Bagel",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623337747606jpg?alt=media&token=d7b05bc9-40a2-47fb-9e33-085f0467578d"
+  },
+  {
+
+    "salePrice": null,
+    "details": "",
+    "price": 1.59,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623335144394webp?alt=media&token=a17b3905-c406-4d91-862f-894f57990d5f",
+    "section": "",
+    "title": "Orville Redenbacher's Movie Theater Popcorn",
+    "categories": ["60c4cce7423ad4831894593f"]
+  },
+  {
+
+    "title": "Complete Salad Kit Ceaser Chopped Salad Kit",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623354553091jpg?alt=media&token=9bb469ab-3b60-43c3-b8cd-f9a9dd911154",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "section": "",
+    "price": 3.49,
+    "salePrice": null,
+    "details": ""
+  },
+  {
+
+    "salePrice": null,
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623328657329jpg?alt=media&token=caba42bc-1c26-43a0-a01f-99aa61d551ff",
+    "details": "",
+    "categories": ["60c4ccf8423ad48318945941"],
+    "title": "Snapple Peach Tea",
+    "price": 1.8
+  },
+  {
+
+    "salePrice": null,
+    "section": "",
+    "price": 2.99,
+    "title": "Minute Maid\tLemonade",
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623337662928jpg?alt=media&token=ccfff58e-36b6-47a2-9250-c7c02d43ebd7",
+    "categories": ["60c4ccf8423ad48318945941"]
+  },
+  {
+
+    "price": 2.99,
+    "details": "",
+    "section": "",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623333698028jpg?alt=media&token=55c00157-0a3d-4fa1-b853-1d115be3e36f",
+    "title": "Kraft  Macaroni & Cheese"
+  },
+  {
+
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623355656997jpg?alt=media&token=bc8ecf7e-18e8-4374-883a-69a25f3770fd",
+    "price": 0.99,
+    "categories": ["60c4ccdf423ad4831894593e"],
+    "section": "",
+    "details": "",
+    "title": "Lay's Lay's Bar-B-Que Potato Chips"
+  },
+  {
+
+    "title": "Hairspray, with Jojoba & Sea Kelp, Strong Hold, 10 fl oz",
+    "price": 6.99,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623337646017jpg?alt=media&token=74881b12-0f36-4577-867c-28b64c8160d1",
+    "details": "",
+    "section": "",
+    "salePrice": null,
+    "categories": ["60c4cd38423ad48318945946"]
+  },
+  {
+
+    "details": "",
+    "section": "",
+    "categories": ["60c4cd38423ad48318945946"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623370623514jpg?alt=media&token=92e13063-ec5e-4969-8652-8b2ed2a74e8a",
+    "title": "Barbasol Thick & Rich Shaving Cream Original",
+    "price": 4.29,
+    "salePrice": null
+  },
+  {
+
+    "details": "Oats 'n Honey",
+    "categories": ["60c4cce7423ad4831894593f"],
+    "title": "Nature Valley Granola Bars Crunchy",
+    "salePrice": null,
+    "section": "",
+    "price": 0.79,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623335435864jpg?alt=media&token=f742e59c-95a4-45cb-8285-9699966ea1f1"
+  },
+  {
+
+    "salePrice": null,
+    "details": "",
+    "title": "Doritos Cool Ranch Tortilla Chips",
+    "categories": ["60c4ccdf423ad4831894593e"],
+    "price": 0.99,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623333767520jpg?alt=media&token=dad4a9a5-2fd0-45d5-8815-6b29bbf2f4f5",
+    "section": ""
+  },
+  {
+
+    "title": "Pellegrino No Flavor Sparkling Water",
+    "details": "",
+    "salePrice": null,
+    "categories": ["60c4ccf8423ad48318945941"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623326868603webp?alt=media&token=7adb5631-de8b-4fe3-8f48-877cbe04fc51",
+    "section": "",
+    "price": 2.29
+  },
+  {
+
+    "price": 4.29,
+    "categories": ["60c4cd38423ad48318945946"],
+    "title": "Dove Antiperspirant Deodorant Stick Cool Essentials,",
+    "salePrice": null,
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623337029472webp?alt=media&token=62b4bfb9-173d-423c-a9b1-0d3e12509a14",
+    "details": ""
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623334798750webp?alt=media&token=944b60de-316f-4348-b96a-720d32e89a81",
+    "price": 2.19,
+    "details": "",
+    "title": "Quaker  Instant Oatmeal Express Cups",
+    "section": "",
+    "salePrice": null,
+    "categories": ["60c4cccc423ad4831894593c"]
+  },
+  {
+
+    "title": "Nature's Own Honey Wheat Bread",
+    "salePrice": null,
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623336394624jpg?alt=media&token=9716b606-3c19-456d-b2c6-fd18df29f367",
+    "section": "",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "price": 3.9
+  },
+  {
+
+    "categories": ["60c4ccd7423ad4831894593d"],
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623365252732jpg?alt=media&token=07595ba7-0eac-4614-bfd1-76cda21f4ac5",
+    "section": "",
+    "salePrice": null,
+    "title": "Childrens Tylenol Pain + Fever Relief Liquid - Acetaminophen",
+    "price": 8.9
+  },
+  {
+
+    "categories": ["60c4ccd7423ad4831894593d"],
+    "details": "",
+    "title": "Alka-Seltzer® Antacid & Pain Reliever Refill",
+    "salePrice": null,
+    "price": 0.99,
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623366037732webp?alt=media&token=83f248ad-6dec-4385-8a82-0b7a7ba31914"
+  },
+  {
+
+    "salePrice": null,
+    "categories": ["60c4ccf8423ad48318945941"],
+    "details": "",
+    "title": "Canada Dry Ginger Ale",
+    "section": "",
+    "price": 2.39,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623337537792Canada%20Dry%20Ginger%20Ale?alt=media&token=0954851c-ca77-42ae-bc5c-373608fed67f"
+  },
+  {
+
+    "salePrice": null,
+    "details": "",
+    "categories": ["60c4cce7423ad4831894593f"],
+    "price": 0.99,
+    "title": "Rold Gold Tiny Twists Pretzels",
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623333869428jpg?alt=media&token=fb1a9d84-e25f-4923-b030-fdd204d2e041"
+  },
+  {
+
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623343635261jpg?alt=media&token=190d10a5-7b9b-49b0-9672-5f0e56ea1730",
+    "section": "",
+    "price": 1.19,
+    "details": "",
+    "title": "Nissin Top Ramen Chicken ",
+    "categories": ["60c4cccc423ad4831894593c"]
+  },
+  {
+
+    "title": "LYSOL Disinfecting Wipes",
+    "section": "",
+    "details": "",
+    "price": 3.99,
+    "categories": ["60c4cd57423ad4831894594a"],
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623334173837jpg?alt=media&token=2e4698f0-acf4-47b3-86ef-df7575248684"
+  },
+  {
+
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623339115315webp?alt=media&token=c0330ced-8584-43a9-b478-05dff553a743",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "salePrice": null,
+    "price": 2.49,
+    "title": "Hostess Donettes  Mini Donuts Powdered",
+    "details": "",
+    "section": ""
+  },
+  {
+
+    "categories": ["60c4ccd7423ad4831894593d"],
+    "details": "",
+    "title": "Tampax Pearl, Regular, Plastic Tampons, Unscented",
+    "price": 8.49,
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623368414631webp?alt=media&token=57f85649-5bfe-4abf-8fe1-264a0364f8b4",
+    "section": ""
+  },
+  {
+
+    "details": "",
+    "salePrice": null,
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623366504829jpg?alt=media&token=c5f45f30-7938-44fb-8900-2b3f80202d62",
+    "price": 0.99,
+    "categories": ["60c4ccd7423ad4831894593d"],
+    "title": "Aleve 220mg Naproxen Caplets"
+  },
+  {
+
+    "section": "",
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623337252296Coca-Cola%20Diet%20Coke?alt=media&token=fe25637f-9b4d-402a-9f8d-5349fa2cca58",
+    "categories": ["60c4ccf8423ad48318945941"],
+    "price": 2.39,
+    "salePrice": null,
+    "title": "Coca-Cola Diet Coke"
+  },
+  {
+
+    "categories": ["60c4cce7423ad4831894593f"],
+    "title": "Extra Spearmint Sugarfree Gum",
+    "price": 1.29,
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623336886120Extra%20Spearmint%20Sugarfree%20Gum?alt=media&token=498ca1b2-78b6-41ca-b33d-a1adecda680a",
+    "section": "",
+    "details": ""
+  },
+  {
+
+    "section": "",
+    "details": "Peach",
+    "salePrice": null,
+    "categories": ["60c4cccc423ad4831894593c"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623334530503jpeg?alt=media&token=7b80ee75-93d0-4a2c-a416-108cc0947fdb",
+    "price": 1.49,
+    "title": "Chobani\tGreek Yogurt Non-Fat"
+  },
+  {
+
+    "details": "",
+    "title": "Bang Cotton Candy Energy Drink",
+    "salePrice": null,
+    "price": 1.99,
+    "categories": ["60c4ccf8423ad48318945941"],
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623338327958png?alt=media&token=3e8a7ea6-a1b5-41e7-b0f1-3631f4e0091b"
+  },
+  {
+
+    "section": "",
+    "details": "",
+    "title": "Gatorade Thirst Quencher Fruit Punch",
+    "salePrice": null,
+    "price": 1.99,
+    "categories": ["60c4ccf8423ad48318945941"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623329516696webp?alt=media&token=cb32448d-36c1-4708-88bd-931006a07426"
+  },
+  {
+
+    "title": "Ziploc Slider Freezer Bags Quart",
+    "details": "",
+    "price": 5.29,
+    "section": "",
+    "categories": ["60c4cd57423ad4831894594a"],
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623362173639jpg?alt=media&token=505737ba-4b27-4a23-8fed-c8ba46f99477"
+  },
+  {
+
+    "price": 4.79,
+    "details": "",
+    "section": "",
+    "title": "Health Ade Kombucha, Pomegranate",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623331226184png?alt=media&token=d0594748-50b7-4613-8333-402ac99ec256",
+    "categories": ["60c4ccf8423ad48318945941"],
+    "salePrice":null
+  },
+  {
+
+    "price": 2.99,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623337739991Monster%20Original?alt=media&token=b27ddedb-7a10-4409-b176-f5d87efdb7db",
+    "title": "Monster Original",
+    "section": "",
+    "salePrice": null,
+    "details": "",
+    "categories": ["60c4ccf8423ad48318945941"]
+  },
+  {
+
+    "title": "Trojan Stimulations Ultra Ribbed Lubricated Condom, 3Ct",
+    "section": "",
+    "price": 4.99,
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623369341680webp?alt=media&token=4dbb7aac-ba41-44ee-a3fe-78f97075a491",
+    "categories": ["60c4ccd7423ad4831894593d"],
+    "details": ""
+  },
+  {
+
+    "section": "",
+    "categories": ["60c4cd38423ad48318945946"],
+    "details": "",
+    "title": "Tresemmé Conditioner Moisture Rich",
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623332665066jpg?alt=media&token=b4f69fcc-79de-4cd3-a756-91f062d61fd5",
+    "price": 7.9
+  },
+  {
+
+    "price": 5.49,
+    "details": "Whole Grain",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623338186732jpg?alt=media&token=3bdd1f12-8813-4401-9044-cfbce900dd1b",
+    "section": "",
+    "title": "Birch Benders Organic Pancake and Waffle Mix",
+    "categories": ["60c4cccc423ad4831894593c"],
+    "salePrice":null
+  },
+  {
+
+    "salePrice": null,
+    "price": 6.99,
+    "section": "",
+    "title": "Neutrogena® Makeup Remover Cleansing Towelettes",
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623334037097jpg?alt=media&token=e3e9ea94-f04b-44ad-9429-8167d40c6eee",
+    "categories": ["60c4cd38423ad48318945946"]
+  },
+  {
+
+    "title": "KIND Bars Dark Chocolate Nuts & Sea Salt",
+    "salePrice": null,
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623336729240KIND%20Bars%2C%20Dark%20Chocolate%20Nuts%20%26%20Sea%20Salt?alt=media&token=250124c1-682a-43e5-b9c3-214f46e74393",
+    "details": "",
+    "price": 1.99,
+    "categories": ["60c4cce7423ad4831894593f"],
+    "section": ""
+  },
+  {
+
+    "price": 2.99,
+    "title": "Wild Cherry",
+    "salePrice": null,
+    "categories": ["60c4ccd7423ad4831894593d"],
+    "section": "",
+    "details": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623364341848jpg?alt=media&token=50bbaf52-8289-4a0d-bee4-a6cf8b775654"
+  },
+  {
+
+    "price": 4.29,
+    "title": "Bigelow Classic Green Tea LimeBags",
+    "categories": ["60c4ccf8423ad48318945941"],
+    "details": "",
+    "salePrice": null,
+    "section": "",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623334291931jpg?alt=media&token=9311c0f2-c094-4f66-8fd5-ded6794d88ce"
+  },
+  {
+
+    "salePrice": null,
+    "price": 2.49,
+    "title": "Kit Kat",
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623330643667webp?alt=media&token=27473d94-1d83-4967-be6b-64a91545301d",
+    "categories": ["60c4cd01423ad48318945942"],
+    "section": "",
+    "details": ""
+  },
+  {
+
+    "categories": ["60c4ccf8423ad48318945941"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623338390814jpg?alt=media&token=ab7e0974-3ee8-462d-850b-b1e82f406f3a",
+    "title": "Crystal Geyser® Natural Alpine Spring Water",
+    "salePrice": null,
+    "price": 1.29,
+    "section": "",
+    "details": ""
+  },
+  {
+
+    "section": "",
+    "price": 3.49,
+    "title": "Jif Peanut Butter",
+    "salePrice": null,
+    "categories": ["60c4cccc423ad4831894593c"],
+    "img": "https://firebasestorage.googleapis.com/v0/b/just-go1.appspot.com/o/products%2F10001623341874311webp?alt=media&token=986144ca-0c41-4a46-8902-c2aa2f10d536",
+    "details": ""
+  }
+]
